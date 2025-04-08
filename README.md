@@ -18,7 +18,7 @@
 
 ## 📚 Conhecimentos
 
-- Python • HTML • CSS • JavaScript
+- Python • HTML • CSS • Ruby 
 - Ruby on Rails (em aprendizado)
 - Banco de Dados (MySQL, SQLite)
 - Git & GitHub
